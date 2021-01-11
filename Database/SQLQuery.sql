@@ -1,0 +1,5 @@
+select Student.Class, Student.IDStudent, NameStudent, Subject.SubjectName, ResultLearning.DiligenceScores, MidtermScores, EndtermScores, SubjectMediumScores from Student, Subject, ResultLearning where Student.IDStudent = ResultLearning.IDStudent and Subject.IDSubject = ResultLearning.IDSubject and Class = 'CNTT K40a'
+select Student.Class, Student.IDStudent, NameStudent, Subject.IDSubject, SubjectName, ResultLearning.DiligenceScores, MidtermScores, EndtermScores, SubjectMediumScores from Student, Subject, ResultLearning where Student.IDStudent = ResultLearning.IDStudent and Subject.IDSubject = ResultLearning.IDSubject and NameStudent = 'hoan'
+UPDATE ResultLearning Set DiligenceScores = '1' Where IDStudent = '4051050023' and IDSubject = 'QNU2'
+select ResultLearning.IDStudent, Student.NameStudent, Subject.IDSubject, SubjectName, NumberCredits from ResultLearning, Student, Subject where Student.IDStudent = ResultLearning.IDStudent and ResultLearning.IDSubject = Subject.IDSubject
+insert into ResultLearning(IDStudent, IDSubject) select Student.IDStudent, Subject.IDSubject from Student, Subject

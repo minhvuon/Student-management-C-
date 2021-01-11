@@ -1,0 +1,162 @@
+D:\Windows\StudentManager\StudentManager\bin\Debug\StudentManager.exe.config
+D:\Windows\StudentManager\StudentManager\bin\Debug\StudentManager.exe
+D:\Windows\StudentManager\StudentManager\bin\Debug\StudentManager.pdb
+D:\Windows\StudentManager\StudentManager\obj\Debug\StudentManager.frmStudentManager.resources
+D:\Windows\StudentManager\StudentManager\obj\Debug\StudentManager.Properties.Resources.resources
+D:\Windows\StudentManager\StudentManager\obj\Debug\StudentManager.csproj.GenerateResource.cache
+D:\Windows\StudentManager\StudentManager\obj\Debug\StudentManager.csproj.CoreCompileInputs.cache
+D:\Windows\StudentManager\StudentManager\obj\Debug\StudentManager.exe
+D:\Windows\StudentManager\StudentManager\obj\Debug\StudentManager.pdb
+D:\Windows\StudentManager\StudentManager\obj\Debug\StudentManager.frmStudent.resources
+D:\Windows\StudentManager\StudentManager\obj\Debug\StudentManager.frmScores.resources
+D:\Windows\StudentManager\StudentManager\obj\Debug\StudentManager.frmLogin.resources
+D:\Windows\StudentManager\StudentManager\obj\Debug\StudentManager.frmNewAccount.resources
+D:\Windows\StudentManager\StudentManager\obj\Debug\StudentManager.frmUserInformation.resources
+D:\Windows\StudentManager\StudentManager\obj\Debug\StudentManager.frmSubject.resources
+D:\Windows\StudentManager\StudentManager\obj\Debug\StudentManager.frmUser.resources
+D:\Windows\StudentManager\StudentManager\obj\Debug\StudentManager.csprojAssemblyReference.cache
+D:\Windows\StudentManager\StudentManager\obj\Debug\StudentManager.frmViewScores.resources
+D:\Windows\StudentManager\StudentManager\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Windows\StudentManager\StudentManager\obj\Debug\StudentManager.frmReport.resources
+D:\Windows\StudentManager\StudentManager\obj\Debug\StudentManager.csproj.CopyComplete
+D:\Windows\StudentManager\StudentManager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\EnvDTE.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\stdole.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\Microsoft.MSXML.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows\StudentManager\StudentManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows\StudentManager\StudentManager\obj\Debug\RdlCompile.cache
+D:\Windows\StudentManager\StudentManager\obj\Debug\RdlCompile.compiled
+D:\Windows\StudentManager\StudentManager\obj\Debug\StudentManager.frmAbout.resources
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\StudentManager.exe.config
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\StudentManager.exe
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\StudentManager.pdb
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\EnvDTE.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\stdole.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\Microsoft.MSXML.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\obj\Debug\StudentManager.csprojAssemblyReference.cache
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\obj\Debug\StudentManager.frmAbout.resources
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\obj\Debug\StudentManager.frmReport.resources
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\obj\Debug\StudentManager.frmSubject.resources
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\obj\Debug\StudentManager.frmLogin.resources
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\obj\Debug\StudentManager.frmNewAccount.resources
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\obj\Debug\StudentManager.frmScores.resources
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\obj\Debug\StudentManager.frmStudent.resources
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\obj\Debug\StudentManager.frmStudentManager.resources
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\obj\Debug\StudentManager.Properties.Resources.resources
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\obj\Debug\StudentManager.frmUser.resources
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\obj\Debug\StudentManager.frmUserInformation.resources
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\obj\Debug\StudentManager.frmViewScores.resources
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\obj\Debug\StudentManager.csproj.GenerateResource.cache
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\obj\Debug\RdlCompile.cache
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\obj\Debug\RdlCompile.compiled
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\obj\Debug\StudentManager.csproj.CoreCompileInputs.cache
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\obj\Debug\StudentManager.csproj.CopyComplete
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\obj\Debug\StudentManager.exe
+D:\Windows\[Nguyen-Minh-Vuon]-Đề tài quản lý sinh viên\StudentManager\StudentManager\obj\Debug\StudentManager.pdb
